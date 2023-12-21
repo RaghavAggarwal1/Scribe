@@ -1,3 +1,3 @@
-# knote-java
+# Scribe
 
 Simple Spring Boot app to take notes
